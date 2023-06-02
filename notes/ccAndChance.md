@@ -1,3 +1,72 @@
+##Edited but unsorted card texts
+
+###Positive
+
+  "Regulatory Assistance:
+  Your lobbying successfully exempts your AI technology from expensive regulatory requirements.
+  Gain a competitive advantage.
+  Each player but you PAYS $10 to the bank"
+
+  "Policy Support: Your lobbying efforts result in the adoption of favorable legislation.
+  Industry experiences rapid growth."
+  each player collects $10 from bank.
+
+  "Regulatory Approval: 
+  Your experimental technology receives regulatory approval
+  Collect $20"
+
+  "Court Victory: Your company wins a significant court battle against a competitor. 
+  Collect $25 from the player to your left
+
+  "IP Portfolio Expansion: 
+  Acquire a valuable portfolio of AI patents through a court-ordered auction, enhancing your company's intellectual property assets
+  Collect $10 from each player."
+
+  "Trade Secret Protection:
+  Gain a research bonus as a result of preserving your proprietary advantage.
+  Collect from bank 10x number rolled on one di"
+
+###Negative
+
+  "AI Data Breach: 
+  Pay $40 to invest in enhanced cybersecurity measures."
+  
+  "Shareholder Lawsuit:
+  Shareholders file a lawsuit against your company for alleged mismanagement
+  Pay $30 settlement fee to bank as investor confidence wanes."
+
+  "Patent Infringement Claim: 
+  Pay 10% of total liquid assets to bank."
+
+  "Reputation Damage: 
+  Front-page article exposing your comppany's contributing role in the opiate crisis hits newsstands. 
+  Pay $40 to bank for public relations repair.
+
+  "Increased Regulation: 
+  Government authorities introduce stricter regulations on pharmaceutical and AI companies due to the opiate crisis. 
+  Pay $30 in compliance costs."
+
+  "Economic Downturn: 
+  The opiate crisis leads to a recession.
+  pay $20 to bank as consumer demand diminishes."
+
+  "Reduced Consumer Demand:
+  The opiate crisis causes a decline in consumer discretionary spending.
+  PAY $15 to bank.
+
+  "Funding Cuts: Public funding for AI research and development is redirected towards addressing the opiate crisis.
+  RESOURCES BECOME SCARCE.
+  pay $40 to bank"
+
+  "Intellectual Property Loss:
+  Your key AI patent is invalidated in a court decision.
+  Pay each player $10."
+
+
+---
+---
+
+
 ##The following card texts require editing for length and content:
 
 "Advancement in AI Research: Your company makes a groundbreaking discovery in AI algorithms. Advance to the nearest unowned AI company space and acquire it at a discounted price."
@@ -18,21 +87,14 @@
 
 "AI Arms Race Funding: Secure additional funding for your AI arms race efforts. Collect a significant amount of money to invest in research, acquisitions, or marketing."
 
-"AI Data Breach: Your company suffers a major AI data breach. Pay a penalty for the loss of valuable data or invest in enhanced cybersecurity measures."
 
-"AI Collaboration: Collaborate with another player to jointly develop an AI technology. Share the costs and benefits of the collaboration, fostering innovation and competitiveness."
 
-"Regulatory Approval: Your AI technology receives regulatory approval, granting you a competitive advantage. Gain a percentage of market share from each player as they seek your technology for compliance."
 
-"Court Victory: Your company wins a significant court battle against a competitor. Gain a percentage of market share from that competitor as a result of the favorable ruling."
 
-"Patent Infringement Success: Successfully defend your AI technology against a patent infringement claim. Retain full ownership and gain a percentage of market share from the plaintiff."
-
-"Trade Secret Protection: Your company successfully defends its AI trade secrets in a legal battle. Gain a research bonus as a result of preserving your proprietary advantage."
 
 "Licensing Agreement: Negotiate a lucrative licensing agreement for your AI technology. Collect a substantial royalty fee from another player utilizing your patented technology."
 
-"IP Portfolio Expansion: Acquire a valuable portfolio of AI patents through a court-ordered auction. Enhance your company's intellectual property assets, increasing market value."
+
 
 "Strategic Lawsuit: Initiate a strategic lawsuit against a competitor to gain a competitive advantage. Collect a percentage of market share from the targeted player if the lawsuit is successful."
 
@@ -42,11 +104,10 @@
 
 "AI Technology Ban: A court ruling imposes a temporary ban on your AI technology due to regulatory concerns. Pay a fine and lose market share until the ban is lifted."
 
-"Shareholder Lawsuit: Shareholders file a lawsuit against your company for alleged mismanagement or unethical practices. Pay a settlement fee and reduce your market share as investor confidence wanes."
+
 
 "Non-Compete Agreement: Lose a legal battle against a former employee who violates a non-compete agreement. Pay a penalty and lose market share as the ex-employee gains a competitive edge."
 
-"Intellectual Property Invalidity: Your key AI patent is invalidated in a court decision. Lose exclusive rights and face increased competition from other players in the market."
 
 "Regulatory Favor: Your successful lobbying efforts lead to favorable regulatory changes for the AI industry. Pay a lobbying fee and gain a competitive advantage, such as reduced regulatory restrictions or tax benefits."
 
@@ -54,20 +115,11 @@
 
 "AI Education Initiative: Your lobbying leads to the establishment of an AI education initiative. Collect a research bonus as you gain access to a pool of talented AI professionals graduating from specialized programs."
 
-"Policy Support: Your lobbying efforts result in the adoption of policies that encourage AI innovation and adoption. Gain a percentage of market share as the industry experiences rapid growth and increased investment."
+
 
 "AI Talent Visa Program: Your lobbying leads to the creation of a visa program specifically designed to attract international AI talent. Gain an advantage by being able to recruit skilled AI researchers from around the world."
 
-"Regulatory Exemption: Your lobbying successfully exempts your AI technology from certain regulatory requirements. Gain a competitive advantage by avoiding compliance costs and restrictions imposed on other players."
+
 
 "Lawsuit Settlement: Your company is held liable for its involvement in the production or distribution of opiates. Pay a substantial settlement fee and lose a percentage of market share due to the public backlash."
 
-"Reputation Damage: Your company's reputation is tarnished due to allegations of contributing to the opiate crisis. Pay a penalty and suffer a decrease in market share as consumers become wary of your brand."
-
-"Increased Regulation: Government authorities introduce stricter regulations on pharmaceutical and AI companies due to the opiate crisis. Pay compliance costs and face limitations that hamper your AI research and development."
-
-"Economic Downturn: The opiate crisis leads to a recession or economic downturn, affecting consumer spending and investment. Pay a financial penalty and experience a decline in market value."
-
-"Reduced Consumer Demand: The opiate crisis causes a decline in consumer trust and discretionary spending. Experience a decrease in sales and market share as demand for AI products and services diminishes."
-
-"Funding Cuts: Public funding for AI research and development is redirected towards addressing the opiate crisis. Pay a penalty and face a setback in your research efforts as resources become scarce."
