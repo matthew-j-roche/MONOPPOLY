@@ -22,18 +22,22 @@
   Acquire a valuable portfolio of AI patents through a court-ordered auction, enhancing your company's intellectual property assets
   Collect $10 from each player."
 
-  "Trade Secret Protection:
-  Gain a research bonus as a result of preserving your proprietary advantage.
-  Collect from bank 10x number rolled on one di"
+      "Trade Secret Protection:
+      Gain a research bonus as a result of preserving your proprietary advantage.
+      Collect from bank 10x number rolled on one die"
 
 ###Negative
 
-  "AI Data Breach: 
-  Pay $40 to invest in enhanced cybersecurity measures."
+      "REGULATORY SCRUTINY:
+      Your AI decelopment practices become the source of public concern.
+      PAY $20 PENALTY FOR NON-COMPLIANCE WITH AI ETHICS GUIDELINES"
+
+      "AI Data Breach: 
+      Pay $40 to invest in enhanced cybersecurity measures."
   
-  "Shareholder Lawsuit:
-  Shareholders file a lawsuit against your company for alleged mismanagement
-  Pay $30 settlement fee to bank as investor confidence wanes."
+      "Shareholder Lawsuit:
+      Shareholders file a lawsuit against your company for alleged mismanagement
+      Pay $30 settlement fee to bank as investor confidence wanes."
 
   "Patent Infringement Claim: 
   Pay 10% of total liquid assets to bank."
