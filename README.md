@@ -1,2 +1,10 @@
-# MONOPPOLY
-Has-bro™ presents "Monopoly AI Arms Race Edition™" board game. Parker Brothers™, we hardly knew you™.
+# Has-bro™ presents "MONOPPOLY™ AI Arms Race Edition™" board game.
+
+In the early 1920s, amidst the tumultuous era of Prohibition, the Parker brothers, James and Benjamin, emerged as prominent figures in the clandestine world of bootlegging. Capitalizing on the nation's thirst for forbidden libations, the brothers swiftly amassed a vast fortune, navigating treacherous back alleys and secret speakeasies to distribute their illicit spirits. However, as the winds of change blew across the nation, the brothers recognized the need to adapt. With their fortunes amassed and the specter of Prohibition fading away, James and Benjamin sought a new venture to channel their entrepreneurial spirit. Inspired by their shared love for strategy and entertainment, they took a daring leap, using their vast wealth to establish a pioneering board game company. Harnessing their shrewd business acumen and knack for creating captivating experiences, the Parker brothers transformed the gaming landscape, gifting the world with timeless classics like Monoppoly, Rissk, and countless others. Their journey from bootleggers to board game magnates stands as a testament to their ability to navigate shifting tides and reinvent themselves in the pursuit of success.
+
+Tragedy struck the Parker family in the late 1950s when James and Benjamin Parker, the visionary brothers who had revolutionized the board game industry, mysteriously vanished without a trace. The circumstances surrounding their disappearance remain shrouded in enigma, fueling endless speculation and conspiracy theories. As the grieving Parker family sought solace and answers, their vulnerability became a cunning opportunity for Has-bro, Inc., a powerful corporate entity lurking in the shadows. Seizing the moment of distress, Has-bro capitalized on the family's emotional turmoil, employing tactics that bordered on exploitative. With delicate negotiations conducted behind closed doors, Has-bro strategically maneuvered to acquire the legendary Parker Brothers company for a paltry sum, far below its true market value. The once-thriving Parker empire, now bereft of its visionary founders, fell into the clutches of a soulless corporate machine, leaving behind a haunting void and a legacy tainted by the mystery of their untimely disappearance.
+
+James and Benjamin Parker, we hardly knew you.
+
+Today, we here at Has-bro™ are proud to present "MONOPPOLY AI Arms Race Edition™"
+
