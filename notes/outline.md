@@ -32,3 +32,8 @@ To achieve the highest rating possible "MONOPPOLY™ AI Arms Race Edition™" wi
     - draws a "Community Chest" card or favorable "Chance" card
 If the user rates the game anything lower than 5/5 stars, rather than record the rating “MONOPPOLY™ AI Arms Race™” will ask the user "Are you sure?"
 If the user selects the "Yes. I'm sure." option “MONOPPOLY™ AI Arms Race™” will follow up with a message that states "We can tell this wasn't the right time to request your rating. We'll check back later!"
+
+
+#The inner workings of the Has-bro corporate HQ
+
+coming soon
